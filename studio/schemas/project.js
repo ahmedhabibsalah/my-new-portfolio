@@ -21,8 +21,8 @@ export default {
         type: "datetime",
     },
     {
-        name:"place",
-        type: "string"
+        name:"id",
+        type: "number"
     },
     {
         name: "description",
